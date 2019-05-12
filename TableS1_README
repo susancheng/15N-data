@@ -3,6 +3,8 @@ Data in this table include published 15N recovery measurements (%) and CLM5-simu
 Notes:
 Column 1 is unitless, column 2 is in years, and remaining columns have data reported in %. 
 Field-based total plant recovery amounts exclude ground vegetation.
+"with_wood" indicates that this pool was not measured separately from the wood pool.
+"with_organic_soil" indicates this pool was not measured separtely from the organic soil pool. 
 AUR stands for "available upon request from site PI."
 NA stands for "not available."
 Field data were compiled from published literature listed in the Supplementary Information affilated with this manuscript.
